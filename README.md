@@ -1,0 +1,2 @@
+# GalangGg
+Semoga lancar 
