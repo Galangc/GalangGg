@@ -1,2 +1,2 @@
-# GalangGg
-Semoga lancar 
+# Galang
+  Tugas 1
